@@ -9,6 +9,8 @@ Thuc Hanh Buoi 5 Nhom 1
                   NhiemVu_2_2
                   NhiemVu_3_1
                   NhiemVu_3_2
+                  REALME.md
+                  
                   
      -Công cụ AI sử dụng
      
